@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on some  research  projects in physics
 
-- 🌱 I’m currently learning coding and digital skills
+- 🌱 I’m currently learning coding and digital skills 
 
 - 👯 I’m looking to collaborate on eitherphysics projects or coding and digital projects
 
